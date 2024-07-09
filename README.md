@@ -1,6 +1,6 @@
 # Ubuntu Server 24.04 LTS configs
 
-[Ubuntu Server 24.04 LTS](https://ubuntu.com/download/server) performance configs for `Raspberry Pi 5 Model B Rev 1.2`
+[Ubuntu Server 24.04 LTS](https://ubuntu.com/download/server) performance configs for `Raspberry Pi 5`
 
 Config:
 
